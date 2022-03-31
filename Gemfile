@@ -8,7 +8,7 @@ gem 'rails', '~> 5.2.4', '>= 5.2.4.3'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use Puma as the app server
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 4.3'
 # Use this gem Odin told me to for attachments
 gem "paperclip"
 # And this one for authentification
